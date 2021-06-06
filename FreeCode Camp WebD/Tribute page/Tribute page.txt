@@ -1,8 +1,8 @@
-https://codepen.io/sangram-69/pen/XWMqxYM 
-
-
-
-----------------------------------------------------------
 *Link for Tribute Page*
+--------------------------------------------------------
+https://codepen.io/sangram-69/pen/XWMqxYM 
+----------------------------------------------------------
+
+-> Copy the link given above & paste in the URL box of your web browser and run it, you will able see the project solution.  
 
 #freeCodeCamp- Responsive Web Design Project (1)
