@@ -1,8 +1,8 @@
-https://codepen.io/sangram-69/pen/JjWBRdw
-
-
-
-----------------------------------------------------------
 *Link for Survey Form*
+--------------------------------------------------------
+https://codepen.io/sangram-69/pen/JjWBRdw
+----------------------------------------------------------
+
+-> Copy the link given above & paste in the URL box of your web browser and run it, you will able see the project solution.  
 
 #freeCodeCamp- Responsive Web Design Project (2)
